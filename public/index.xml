@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matt Hasian's Blog</title><link>https://example.org/</link><description>Recent content on Matt Hasian's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 12:00:00 -0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Splunk</title><link>https://example.org/posts/learning-splunk/</link><pubDate>Sat, 31 May 2025 12:00:00 -0500</pubDate><guid>https://example.org/posts/learning-splunk/</guid><description>&lt;p>Lately, I’ve been diving into Splunk — a powerful platform for searching, monitoring, and analyzing machine-generated data.&lt;/p>
+&lt;h3 id="-what-ive-learned-so-far">🔹 What I&amp;rsquo;ve Learned So Far&lt;/h3>
+&lt;ul>
+&lt;li>Splunk uses &lt;strong>forwarders&lt;/strong> to collect logs.&lt;/li>
+&lt;li>You write &lt;strong>search queries&lt;/strong> in SPL (Search Processing Language).&lt;/li>
+&lt;li>Dashboards and alerts are key to real-time visibility.&lt;/li>
+&lt;li>It&amp;rsquo;s very useful in a &lt;strong>SOC&lt;/strong> environment.&lt;/li>
+&lt;/ul>
+&lt;p>This post will grow as I learn more&amp;hellip;&lt;/p></description></item><item><title>Lessons from the Trenches: What IT Has Taught Me</title><link>https://example.org/posts/my-first-post/</link><pubDate>Mon, 26 May 2025 11:32:49 -0500</pubDate><guid>https://example.org/posts/my-first-post/</guid><description>&lt;p>Over the past few years in IT, I’ve encountered a wide range of challenges, technologies, and people. Here are a few things I’ve learned along the way:&lt;/p>
+&lt;h3 id="1-documentation-is-everything">1. &lt;strong>Documentation is Everything&lt;/strong>&lt;/h3>
+&lt;p>Writing things down saves your future self and your teammates. Whether it&amp;rsquo;s a fix, a configuration, or a weird error message — document it.&lt;/p>
+&lt;h3 id="2-backups-matter--really">2. &lt;strong>Backups Matter — Really&lt;/strong>&lt;/h3>
+&lt;p>Backups are only useful if they’re &lt;strong>tested&lt;/strong>. Don’t just assume they&amp;rsquo;re working because they ran.&lt;/p></description></item></channel></rss>
